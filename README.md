@@ -23,7 +23,7 @@ Database Provider: Neon Database (serverless PostgreSQL) for scalable data stora
 AI Integration: OpenAI DALL-E 3 API for high-quality image generation
 Storage Strategy: Flexible storage implementation supporting both in-memory and database persistence
 Development Environment
-Deployment: Replit-optimized with static deployment configuration
+Deployment: optimized with static deployment configuration
 Package Management: npm with comprehensive dependency management
 Code Quality: TypeScript strict mode enabled across all modules
 Key Components
@@ -74,7 +74,7 @@ ESBuild: Fast bundling for production
 Deployment Strategy
 The application is configured for multiple deployment scenarios:
 
-Replit Deployment
+
 Static deployment with Vite build process
 Automatic port configuration (5000 internal, 80 external)
 Development workflow with hot reloading
